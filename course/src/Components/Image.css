@@ -1,0 +1,10 @@
+img{
+    width: 150px;
+    height: 150px;
+    box-shadow: 15px;
+    position: relative;
+    margin-left: 100px;
+    top: 50px;
+    border:2px solid black;
+    box-shadow: 1px 1px 5px grey;
+}
